@@ -3,7 +3,7 @@
 This repository contains my __project__ for SMU module ACCT420 (Forecasting & Financial Analytics).
 
 # Project description
-This project aims to create a model that is able to predict bank manipulation or fraud.
+This project aims to create a model that is able to predict accounting manipulation or fraud in banks.
 
 ## Methodology
 Part 1 - Taxonomy research

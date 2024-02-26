@@ -3,7 +3,9 @@
 This repository contains my __project__ for SMU module ACCT420 (Forecasting & Financial Analytics).
 
 # Project description
-This project aims to model accounting manipulation or fraud in __banks__.
+This project aims to model accounting manipulation or fraud in __banks__. 
+
+In this project, we work with transparently.AI, a company that provides AI-enabled accounting manipulation and fraud prediction. The problem at hand is that 40% of companies manipulate their accounts, and more than $1 trillion USD per year is lost to owners, investors, suppliers and customers due to accounting manipulation and fraud. Hence, the need for a model that could predict manipulation and fraud before it even happens.
 
 ## Methodology
 Part 1 - Taxonomy research (understanding the use-case)

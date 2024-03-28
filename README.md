@@ -16,7 +16,7 @@ Part 2 -  Modelling
 
 Our workflow is as follows:
 1. Exploratory Data Analysis
-2. Data Preperation
+2. Data Preparation
 3. Model selection (*Logistic regression, LASSO, XGBoost*)
 4. Conclusions
 

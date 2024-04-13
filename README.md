@@ -28,7 +28,7 @@ We then perform data cleaning, feature engineering and model building using 3 cl
 
 ![image](https://github.com/Rayybird96/ACCT420_Forecasting_and_Forensic_Analytics/assets/138758608/5c6950c1-095b-49e7-b936-7909d7754f45)
 
-
+While this is just a brief summary of our project, our data engineering and discovery processes were also very extensive. Please refer to my R files to check out our full story!
 
 
 

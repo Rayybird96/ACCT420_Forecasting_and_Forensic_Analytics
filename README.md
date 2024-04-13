@@ -24,7 +24,7 @@ We __took insipiration (totally did not copy and paste 🤭)__ from the Journal 
 
 ![image](https://github.com/Rayybird96/ACCT420_Forecasting_and_Forensic_Analytics/assets/138758608/3254c06f-a5c2-41ee-bb8f-aac38a837359)
 
-We then perform data cleaning, feature engineering and model building using 3 classification model techniques. __Our conclusion is that *XGBoost* has the best model performance (everyone, act surprised!!1!🙄)__. Additionally, the important variables across all models are those related to long-term debt and preferred stock, hence there is scope for further research on these variables and how they potentially lead to accounting mistatements.
+We then perform data cleaning, feature engineering and model building using 3 classification model techniques. __Our conclusion is that *XGBoost* has the best model performance (everyone, act surprised!!!!🙄)__. Additionally, the important variables across all models are those related to long-term debt and preferred stock, hence there is scope for further research on these variables and how they potentially lead to accounting mistatements.
 
 ![image](https://github.com/Rayybird96/ACCT420_Forecasting_and_Forensic_Analytics/assets/138758608/5c6950c1-095b-49e7-b936-7909d7754f45)
 

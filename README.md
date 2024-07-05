@@ -1,6 +1,6 @@
 # ACCT420 (Forecasting and Forensic Analytics)
 
-This repository contains my __project__ for SMU module ACCT420 (Forecasting & Financial Analytics).
+This repository contains my __project__ for SMU module ACCT420 (Forecasting & Forensic Analytics).
 
 # Project description
 This project aims to model accounting manipulation or fraud in __banks__. 

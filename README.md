@@ -1,4 +1,4 @@
-# ACCT420_Forecasting_and_Forensic_Analytics
+# ACCT420 (Forecasting and Forensic Analytics)
 
 This repository contains my __project__ for SMU module ACCT420 (Forecasting & Financial Analytics).
 
